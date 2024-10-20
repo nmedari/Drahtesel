@@ -1,0 +1,35 @@
+WORKFLOW
+
+1. Tools and Environments
+•	Version Control: We use Git and GitHub for managing source code and collaborating across the team. We follow a branching strategy where each feature, bug fix, or enhancement is developed on separate branches.
+•	Development Environments: Development is carried out in IntelliJ, with Gradle as the build tool.
+•	Project Management: We use Taiga to track tasks, sprints, and project progress. Each sprint typically lasts two weeks, and tasks are assigned according to team roles.
+
+2. Step-by-Step Process
+•	Planning & Requirements Gathering:
+o	During the initial phase, the product owner or project lead gathers requirements and creates user stories or tasks. These are entered into a task management tool such as Jira.
+•	Branching & Development:
+o	Developers create a feature branch based on the master or main branch for new features or bug fixes (git checkout -b feature/branch-name).
+o	Code is written according to the task description and committed regularly.
+o	The IDE or build tool Gradle is used for local builds and testing.
+•	Code Reviews:
+o	Once a feature is complete, developers push their branch to the remote repository and create a pull request (PR) for review.
+o	Team members review the PR for code quality, adherence to standards, and functionality.
+•	Testing:
+o	After code is reviewed, it undergoes unit testing using frameworks like JUnit (for Java). Automated tests are run as part of the build pipeline.
+•	Merging & Continuous Integration:
+o	Once tests pass and the review is approved, the feature branch is merged back into develop.
+o	Our CI/CD pipeline (GitHub Actions) automatically triggers after each merge, running tests and building the project.
+
+3. Roles and Responsibilities
+Describe who is responsible for which parts of the workflow. For instance:
+•	Developers: Work on feature branches, write code, conduct unit testing, and submit pull requests for review.
+•	Git master: Leads review pull requests to ensure code quality and adherence to best practices.
+•	Scrum master: Responsible for running manual or automated tests and ensuring the product meets the required quality standards.
+
+4. Best Practices and Adaptability
+•	Best Practices:
+o	We follow coding standards and use linters (Checkstyle) for code consistency.
+o	We ensure high code coverage with unit tests and strive for clear, meaningful commits.
+•	Adaptability:
+o	Our workflow is flexible, allowing adjustments based on project complexity and team availability. For instance, if a critical issue arises, we can fast-track bug fixes using a hotfix branch and deploy immediately.
