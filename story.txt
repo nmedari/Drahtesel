@@ -1,2 +1,7 @@
 This morning I had a bratwrust for breakfast.
+<<<<<<< HEAD
 My hund bit me in the biergarten.
+=======
+Then I decided to drive to Berlin for the day.
+
+>>>>>>> 7308de976eb97a7ff788ada6a8e97fc65eb02c08
