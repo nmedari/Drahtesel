@@ -4,10 +4,7 @@ My hund bit me in the biergarten.
 Then, I ran over Rammstein on the Hauptstrasse.
 Had to replace my Porsche with a new BMW.
 Drove to play wettbewerbsfaehig hockey at the Schloss.
-<<<<<<< HEAD
-My dirndl got dirty because tripped onto a doener stand, so I changed into my lederhose. 
-Then I went to the Flughafen and booked a flight to Raesfeld. 
-=======
 My dirndl got dirty because I tripped onto a doener stand, so I changed into my lederhose. 
 Then I went to the grocery store and bought some brot.
->>>>>>> 9188ea614373ae746657cbdcbf7e2da2da53af91
+Then I went to the Flughafen and booked a flight to Raesfeld.
+
