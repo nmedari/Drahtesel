@@ -3,13 +3,13 @@
 
 ## 1: Basic Information (needed before you start with your Sprint -- Sprint Planning)
 
-**Topic you chose:** topic name
+**Topic you chose:** Gym Scheduling
 
 **Sprint Number:** Nr
 
-**Scrum Master**: Name
+**Scrum Master**: Naythan
 
-**Git Master**: Name
+**Git Master**: Nathaniel Davis-Perez
 
 ### Sprint Planning (For Sprint 1-4)
 Document your Sprint Planning here. Also check the kickoff document for more details on what needs to be done. This is just the documentation. 
